@@ -57,3 +57,22 @@ Forest - Low Poly Toon Battle Arena / Tower Defense Pack: https://assetstore.uni
 Farm Animals Set: https://assetstore.unity.com/packages/3d/farm-animals-set-97945
 
 Meta XR All-in-One SDK: https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657
+
+Penguin SFX: https://opengameart.org/users/ouren
+
+Zombie Sounds Effects: https://opengameart.org/users/bendzer
+
+male pain sounds: https://opengameart.org/users/remaxim
+
+footsteps: https://opengameart.org/users/congusbongus
+
+qubodupItemhandling: https://opengameart.org/users/qubodup
+
+sfx_throw: https://opengameart.org/users/lamoot
+
+Ghoulish Fun: https://opengameart.org/users/eric-matyas
+
+chicken_sounds_effect: https://opengameart.org/users/imadeit
+
+
+
