@@ -74,5 +74,9 @@ Ghoulish Fun: https://opengameart.org/users/eric-matyas
 
 chicken_sounds_effect: https://opengameart.org/users/imadeit
 
+Desert - Low Poly Toon Battle Arena / Tower Defense Pack : https://assetstore.unity.com/packages/3d/environments/desert-low-poly-toon-battle-arena-tower-defense-pack-124507
 
+Fantasy RPG Adventure 25 Tracks! : https://assetstore.unity.com/packages/audio/music/fantasy-rpg-adventure-25-tracks-181574
+
+Shooting Sound : https://assetstore.unity.com/packages/audio/sound-fx/shooting-sound-177096
 
