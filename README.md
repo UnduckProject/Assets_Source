@@ -80,3 +80,4 @@ Fantasy RPG Adventure 25 Tracks! : https://assetstore.unity.com/packages/audio/m
 
 Shooting Sound : https://assetstore.unity.com/packages/audio/sound-fx/shooting-sound-177096
 
+Zombie Monster Animations FREE : https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/zombie-monster-animations-free-259680
